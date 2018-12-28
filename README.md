@@ -6,11 +6,12 @@ Just list of languages, frameworks, and software that I use or have used.
 
 ### Frameworks: Front-end
 
-- [Flutter](https://flutter.io) (Dart)
-- [Vue.js](https://vuejs.org/) (js)
-- [React](https://reactjs.org/) (js)
-- [Elm](https://elm-lang.org/) (Elm)
-- [Tcl/Tk](http://www.tcltk.com/) (Tcl)
+- [Flutter](https://flutter.io) (Dart mobile)
+- [Vue.js](https://vuejs.org/) (js web)
+- [React](https://reactjs.org/) (js web)
+- [Elm](https://elm-lang.org/) (Elm web)
+- [Electron](https://electronjs.org/) (js desktop)
+- [Tcl/Tk](http://www.tcltk.com/) (Tcl desktop)
 
 ### Frameworks: Back-end
 
