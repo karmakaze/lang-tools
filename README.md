@@ -73,18 +73,20 @@ Just list of languages, frameworks, and software that I use or have used.
 
 ### Software: Datastore
 
-- CockroachDB
-- RabbitMQ
-- Redis, Redis Cluster
-- Memcached
-- PostgreSQL
-- MySQL, Percona (TokuDB, MyRocks)
+- [CockroachDB](https://www.cockroachlabs.com/docs/stable/)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [Apache Kafka](https://kafka.apache.org/)
+- [Redis, Redis Cluster](https://redis.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/) [Percona Server](https://www.percona.com/software/mysql-database/percona-server) ([TokuDB](https://www.percona.com/software/mysql-database/percona-tokudb), [MyRocks](http://myrocks.io/))
 
 ### Software: General/Other
 
+- [Hugo](https://gohugo.io/)
 - Nginx
 - HAProxy
 - Keepalived
+- Memcached
 - Letsencrypt
 - Chrony
 
@@ -92,19 +94,18 @@ Just list of languages, frameworks, and software that I use or have used.
 
 ### Software: Services
 
-- CloudFlare
-- Netlify
-- Paypal
-- FastMail
-- SendGrid
-- Namecheap
-- GitLab
+- [CloudFlare](http://cloudflare.com/)
+- [Netlify](http://netlify.com/)
+- [Paypal](http://paypal.com/)
+- [FastMail](http://fastmail.com/)
+- [SendGrid](http://sendgrid.com/)
+- [GitLab](http://gitlab.com/)
 - AWS ELB, ACM
 - AWS SQS
 - AWS RDS Aurora
-- Quicklog.io
-- Datadog
-- New Relic
+- [Quicklog.io](http://quicklog.io/)
+- [Datadog](https://www.datadoghq.com/)
+- [New Relic](http://newrelic.com/)
 
 ## Technlologies
 
