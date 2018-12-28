@@ -100,6 +100,7 @@ Just list of languages, frameworks, and software that I use or have used.
 - [FastMail](http://fastmail.com/)
 - [SendGrid](http://sendgrid.com/)
 - [GitLab](http://gitlab.com/)
+- [Google Cloud Spanner](https://cloud.google.com/spanner/)
 - AWS ELB, ACM
 - AWS SQS
 - AWS RDS Aurora
