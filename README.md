@@ -28,28 +28,32 @@ Just list of languages, frameworks, and software that I use or have used.
 - [Kotlin](https://kotlinlang.org/)
 - [Elixir](https://elixir-lang.org/)
 - [Go](https://golang.org/)
-- [TypeScript](https://www.typescriptlang.org/)
 - [Swift](https://swift.org/)
 - [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 - [Java](https://openjdk.java.net/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Python](https://www.python.org/)
 
+### Languages: Investigate use
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [F#](https://fsharp.org/), [OCaml](https://ocaml.org/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [GDScript](https://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html)
+- [Crystal](https://crystal-lang.org/)
+- [Nim](https://nim-lang.org/)
+
 ### Languages: Formerly/Barely used
 
-- Objective-C
-- GDScript
-- C#
-- Pony
-- Crystal
-- Lua
-- Racket/Scheme
-- Elm
-- Haskell
-- F#/OCaml
 - Julia
 - R
 - Scala
+- Pony
+- Lua
+- Objective-C
+- Racket/Scheme
+- Elm
+- Haskell
 - Perl6
 - Perl
 - Haxe
