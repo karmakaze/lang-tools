@@ -4,20 +4,25 @@ Just list of languages, frameworks, and software that I use or have used.
 
 ## Frameworks
 
+### Frameworks: Front-end
+
 - [Flutter](https://flutter.io) (Dart)
+- [Vue.js](https://vuejs.org/) (js)
+- [React](https://reactjs.org/) (js)
+- [Elm](https://elm-lang.org/) (Elm)
+- [Tcl/Tk](http://www.tcltk.com/) (Tcl)
+
+### Frameworks: Back-end
+
 - [Phoenix](https://phoenixframework.org/) (Elixir)
 - [Javalin](http://javalin.io/) (Kotlin/Java)
 - [JDBI](http://jdbi.org/) (Java)
 - [Spring Boot](https://spring.io/projects/spring-boot) (Java)
-- [Vue.js](https://vuejs.org/) (js)
-- [React](https://reactjs.org/) (js)
 - [Node.js](https://nodejs.org/en/) (js)
-- [Elm](https://elm-lang.org/) (Elm)
 - [Kemal](http://kemalcr.com/) (Crystal)
 - [SparkJava](http://sparkjava.com/) (Java)
 - [Jooq](https://www.jooq.org/) (Java)
 - [Sql2o](https://www.sql2o.org/) (Java)
-- [Tcl/Tk](http://www.tcltk.com/) (Tcl)
 
 ## Languages
 
@@ -37,9 +42,9 @@ Just list of languages, frameworks, and software that I use or have used.
 ### Languages: Investigate use
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [F#](https://fsharp.org/), [OCaml](https://ocaml.org/)
-- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [GDScript](https://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [F#](https://fsharp.org/), [OCaml](https://ocaml.org/)
 - [Crystal](https://crystal-lang.org/)
 - [Nim](https://nim-lang.org/)
 
