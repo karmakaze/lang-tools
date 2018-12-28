@@ -78,7 +78,7 @@ Just list of languages, frameworks, and software that I use or have used.
 - [Apache Kafka](https://kafka.apache.org/)
 - [Redis, Redis Cluster](https://redis.io/)
 - [PostgreSQL](https://www.postgresql.org/)
-- [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/) [Percona Server](https://www.percona.com/software/mysql-database/percona-server) ([TokuDB](https://www.percona.com/software/mysql-database/percona-tokudb), [MyRocks](http://myrocks.io/))
+- [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [Percona Server](https://www.percona.com/software/mysql-database/percona-server) ([TokuDB](https://www.percona.com/software/mysql-database/percona-tokudb), [MyRocks](http://myrocks.io/))
 
 ### Software: General/Other
 
