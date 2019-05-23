@@ -7,6 +7,7 @@ Just list of languages, frameworks, and software that I use or have used.
 ### Frameworks: Front-end
 
 - [Flutter](https://flutter.io) (Dart mobile)
+- [Svelte](https://svelte.dev/) (js web)
 - [Vue.js](https://vuejs.org/) (js web)
 - [React](https://reactjs.org/) (js web)
 - [Elm](https://elm-lang.org/) (Elm web)
@@ -17,7 +18,6 @@ Just list of languages, frameworks, and software that I use or have used.
 
 - [Phoenix](https://phoenixframework.org/) (Elixir)
 - [Javalin](http://javalin.io/) (Kotlin/Java)
-- [JDBI](http://jdbi.org/) (Java)
 - [Spring Boot](https://spring.io/projects/spring-boot) (Java)
 - [Kemal](http://kemalcr.com/) (Crystal)
 - [Sinatra](http://sinatrarb.com/) (Ruby)
@@ -26,6 +26,8 @@ Just list of languages, frameworks, and software that I use or have used.
 - [Flask](http://flask.pocoo.org/) (Python)
 - [Django](https://www.djangoproject.com/) (Python)
 - [SparkJava](http://sparkjava.com/) (Java)
+- [SafeQL](https://github.com/karmakaze/safeql) (Java/Kotlin)
+- [JDBI](http://jdbi.org/) (Java)
 - [Jooq](https://www.jooq.org/) (Java)
 - [Sql2o](https://www.sql2o.org/) (Java)
 
@@ -34,11 +36,13 @@ Just list of languages, frameworks, and software that I use or have used.
 ### Languages: Recently used
 
 - [Clojure](https://clojure.org/)
+- [Racket](https://racket-lang.org/)
 - [Dart](https://www.dartlang.org/)
 - [Kotlin](https://kotlinlang.org/)
 - [Elixir](https://elixir-lang.org/)
 - [Go](https://golang.org/)
 - [Swift](https://swift.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 - [Java](https://openjdk.java.net/)
 - [Ruby](https://www.ruby-lang.org/en/)
@@ -46,7 +50,6 @@ Just list of languages, frameworks, and software that I use or have used.
 
 ### Languages: Investigate use
 
-- [TypeScript](https://www.typescriptlang.org/)
 - [GDScript](https://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html)
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [F#](https://fsharp.org/), [OCaml](https://ocaml.org/)
@@ -61,7 +64,6 @@ Just list of languages, frameworks, and software that I use or have used.
 - Pony
 - Lua
 - Objective-C
-- Racket/Scheme
 - Elm
 - Haskell
 - Perl6
@@ -74,7 +76,7 @@ Just list of languages, frameworks, and software that I use or have used.
 - C++
 - C
 - Pascal
-- Assembly
+- Assembly (x86, M68K, Vax, 360, Z80, 6809, 6502)
 - BASIC
 - COBOL
 - Fortran
