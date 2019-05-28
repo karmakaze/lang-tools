@@ -50,6 +50,7 @@ Just list of languages, frameworks, and software that I use or have used.
 
 ### Languages: Investigate use
 
+- [Clean](https://clean.cs.ru.nl/Clean)
 - [GDScript](https://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html)
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [F#](https://fsharp.org/), [OCaml](https://ocaml.org/)
